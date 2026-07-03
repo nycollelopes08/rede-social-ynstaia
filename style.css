@@ -1,24 +1,13 @@
-😀 João
+:root{
+--verde:#00843D;
+--amarelo:#FFDF00;
+--azul:#002776;
+--branco:#ffffff;
+--preto:#1d1d1d;
 
-Hoje o Brasil joga! 🇧🇷⚽
+--fonte:'Poppins',sans-serif;
 
-❤️ 15
+--sombra:0 10px 30px rgba(0,0,0,.2);
 
-💬 8
-
-🕒 14:25
-
-Gramado verde
-background:#0b6623;
-color:white;
-font-family:Arial;
-
-.post{
-background:white;
-color:black;
-border-radius:20px;
-padding:20px;
-margin:20px;
-box-shadow:0 0 20px rgba(0,0,0,.3);
+--borda:18px;
 }
-🇧🇷⚽🏆🔥❤️😂😎
